@@ -1,5 +1,6 @@
 ### 👋 Hi there !!!
-[![Profile Views](https://komarev.com/ghpvc/?username=maftuhm&color=yellowgreen&style=plastic&label=Profile+Views)](https://github.com/maftuhm) [![Follow](https://img.shields.io/github/followers/maftuhm?label=Follow&style=social)](https://github.com/maftuhm)
+[![Profile Views](https://komarev.com/ghpvc/?username=maftuhm&color=yellowgreen&style=plastic&label=Profile+Views)](https://github.com/maftuhm) &nbsp;
+[![Follow](https://img.shields.io/github/followers/maftuhm?label=Follow&style=social)](https://github.com/maftuhm) &nbsp;
 
 
 **maftuhm/maftuhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
