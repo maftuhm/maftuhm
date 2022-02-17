@@ -65,5 +65,5 @@ I’m currently working in [aiseeyou](https://aiseeyou.tech/) as Android Enginee
   <a href="https://github.com/maftuhm?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4> -->
 
-<!-- [![Profile Views](https://komarev.com/ghpvc/?username=maftuhm&color=yellowgreen&style=plastic&label=visitors)](https://github.com/maftuhm) &nbsp;
-[![Follow](https://img.shields.io/github/followers/maftuhm?label=followers&style=plastic)](https://github.com/maftuhm) &nbsp; -->
+[![Profile Views](https://komarev.com/ghpvc/?username=maftuhm&color=yellowgreen&style=plastic&label=visitors)](https://github.com/maftuhm) &nbsp;
+[![Follow](https://img.shields.io/github/followers/maftuhm?label=followers&style=plastic)](https://github.com/maftuhm) &nbsp;
