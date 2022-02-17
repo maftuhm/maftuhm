@@ -20,10 +20,12 @@ I’m currently working in [aiseeyou](https://aiseeyou.tech/) as Android Enginee
 <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="CSS 3" alt="css 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 
+### :bulb: Tools & Library
+<code><img title="PyTorch" alt="pytorch" width="45px" src="./images/pytorch-icon.svg" /></code>
+<code><img title="Django" alt="django" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" /></code>
+<code><img title="CodeIgniter" alt="codeigniter" width="45px" src="./images/codeigniter-icon.svg" /></code>
 
-<h2>:bulb: Tools & Library</h2>
-<!-- <code><img title="PyTorch" alt="pytorch" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img title="Java" alt="java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
+<!-- <code><img title="Java" alt="java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
 <code><img title="PHP" alt="php" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
 <code><img title="C++" alt="c++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
 <code><img title="PostgreSQL" alt="postgresql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></code> -->
