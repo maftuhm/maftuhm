@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ![aiseeyou](https://aiseeyou.tech/)
+- 🔭 I’m currently working on [aiseeyou](https://aiseeyou.tech/)
 - 🌱 I’m currently learning deep learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
