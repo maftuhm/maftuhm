@@ -1,6 +1,6 @@
-## 👋 Hello I’m maftuh !!!
+## 👋 Hello I’m Maftuh !!!
 
-I developed my skills in software and web development. I’m currently working in [aiseeyou](https://aiseeyou.tech/) as Android Engineer. And in my spare time, I learn on deep learning and data analysis.
+I’m currently working in [aiseeyou](https://aiseeyou.tech/) as Android Engineer. And in my spare time, I learn on deep learning and data analysis.
 
 
  📫 How to reach me: ...
