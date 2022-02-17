@@ -3,6 +3,30 @@
 I’m currently working in [aiseeyou](https://aiseeyou.tech/) as Android Engineer. And in my spare time, I learn on deep learning and data analysis.
 
 
+
+### :busts_in_silhouette: How to reach me:
+<a href="https://github.com/maftuhm">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/maftuhm?style=social&label=@maftuhm">
+</a>
+<!-- <a href="https://codepen.io/maftuhm">
+    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/maftuh&color=000000&style=flat&logo=codepen"  />
+</a> -->
+<a href="https://twitter.com/maftuhmashuri/">
+    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=social&label=@maftuhmashuri">
+</a>
+<a href="https://linkedin.com/in/maftuhm">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/maftuhm&color=0A66C2&style=flat&logo=linkedin" />
+</a>
+<a href="https://t.me/maftuhm">
+    <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@maftuhm&color=26A5E4&style=flat&logo=telegram&logoColor=whitesmoke" />
+</a>
+<a href="https://www.instagram.com/maftuhmashuri/">
+    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@maftuhmashuri&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
+</a>
+<a href="mailto:maftuhmashuri@outlook.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=maftuhmashuri@outlook.com&color=whitesmoke&style=flat&logo=gmail" />
+</a>
+
 <!-- ### 📕 Latest Blog Post
 
 - [A dot cost me 6,000 rupees!](https://aakarshbiju.medium.com/a-dot-cost-me-6-000-rupees-3f519595f86f?source=rss-f82fcec8502a------2)
@@ -34,33 +58,9 @@ I’m currently working in [aiseeyou](https://aiseeyou.tech/) as Android Enginee
 <code><img title="MS Windows" alt="microsoft windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
 
 
-### :busts_in_silhouette: How to reach me:
-<a href="https://github.com/maftuhm">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/maftuhm?style=social&label=@maftuhm">
-</a>
-<!-- <a href="https://codepen.io/maftuhm">
-    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/maftuh&color=000000&style=flat&logo=codepen"  />
-</a> -->
-<a href="https://twitter.com/maftuhmashuri/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=social&label=@maftuhmashuri">
-</a>
-<a href="https://linkedin.com/in/maftuhm">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/maftuhm&color=0A66C2&style=flat&logo=linkedin" />
-</a>
-<a href="https://t.me/maftuhm">
-    <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@maftuhm&color=26A5E4&style=flat&logo=telegram&logoColor=whitesmoke" />
-</a>
-<a href="https://www.instagram.com/maftuhmashuri/">
-    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@maftuhmashuri&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
-</a>
-<a href="mailto:maftuhmashuri@outlook.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=maftuhmashuri@outlook.com&color=whitesmoke&style=flat&logo=gmail" />
-</a>
-
-
 <!-- <h4 align="center">
   <a href="https://github.com/maftuhm?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4> -->
 
-[![Profile Views](https://komarev.com/ghpvc/?username=maftuhm&color=yellowgreen&style=plastic&label=visitors)](https://github.com/maftuhm) &nbsp;
-[![Follow](https://img.shields.io/github/followers/maftuhm?label=followers&style=plastic)](https://github.com/maftuhm) &nbsp;
+<!-- [![Profile Views](https://komarev.com/ghpvc/?username=maftuhm&color=yellowgreen&style=plastic&label=visitors)](https://github.com/maftuhm) &nbsp;
+[![Follow](https://img.shields.io/github/followers/maftuhm?label=followers&style=plastic)](https://github.com/maftuhm) &nbsp; -->
