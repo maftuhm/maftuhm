@@ -63,5 +63,6 @@ I’m currently working in [aiseeyou](https://aiseeyou.tech/) as Android Enginee
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=maftuhmashuri@outlook.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
 
+<br><br>
 [![Profile Views](https://komarev.com/ghpvc/?username=maftuhm&color=yellowgreen&style=plastic&label=visitors)](https://github.com/maftuhm) &nbsp;
 [![Follow](https://img.shields.io/github/followers/maftuhm?label=followers&style=plastic)](https://github.com/maftuhm) &nbsp;
