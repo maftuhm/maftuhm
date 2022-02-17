@@ -54,7 +54,7 @@ I’m currently working in [aiseeyou](https://aiseeyou.tech/) as Android Enginee
     <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@maftuhmashuri&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
 </a>
 <a href="mailto:maftuhmashuri@outlook.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&maftuhmashuri@outlook.com&color=whitesmoke&style=flat&logo=mail" />
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=maftuhmashuri@outlook.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
 
 
