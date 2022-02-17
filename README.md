@@ -22,7 +22,7 @@ I’m currently working in [aiseeyou](https://aiseeyou.tech/) as Android Enginee
 
 ### :bulb: Tools & Library
 <code><img title="PyTorch" alt="pytorch" width="45px" src="./images/pytorch-icon.svg" /></code>
-<code><img title="Django" alt="django" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" /></code>
+<code><img title="Django" alt="django" width="45px" src="./images/django-icon.svg" /></code>
 <code><img title="CodeIgniter" alt="codeigniter" width="45px" src="./images/codeigniter.svg" /></code>
 
 <!-- <code><img title="Java" alt="java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
