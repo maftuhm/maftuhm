@@ -4,7 +4,7 @@ I’m currently working in [aiseeyou](https://aiseeyou.tech/) as Android Enginee
 
 
 
-### :busts_in_silhouette: How to reach me:
+### :busts_in_silhouette: How to reach me
 <a href="https://github.com/maftuhm">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/maftuhm?style=social&label=@maftuhm">
 </a>
@@ -22,6 +22,9 @@ I’m currently working in [aiseeyou](https://aiseeyou.tech/) as Android Enginee
 </a>
 <a href="https://www.instagram.com/maftuhmashuri/">
     <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@maftuhmashuri&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
+</a>
+<a href="https://www.medium.com/@maftuh/">
+    <img alt="link to my Medium" src="https://img.shields.io/static/v1?label&message=@maftuh&color=191919&style=flat&logo=medium" />
 </a>
 <a href="mailto:maftuhmashuri@outlook.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=maftuhmashuri@outlook.com&color=whitesmoke&style=flat&logo=gmail" />
