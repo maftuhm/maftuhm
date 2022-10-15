@@ -1,6 +1,6 @@
 ### 👋 Hello I’m Maftuh !!!
 
-I’m currently working as Android Engineer. And in my spare time, I learn on deep learning and data analysis.
+I’m currently working as Software Engineer. And in my spare time, I learn on deep learning and data analysis.
 
 ### 📕 Latest Blog Post
 
