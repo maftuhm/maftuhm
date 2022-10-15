@@ -2,13 +2,9 @@
 
 I’m currently working as Android Engineer. And in my spare time, I learn on deep learning and data analysis.
 
-<!-- ### 📕 Latest Blog Post
+### 📕 Latest Blog Post
 
-- [A dot cost me 6,000 rupees!](https://aakarshbiju.medium.com/a-dot-cost-me-6-000-rupees-3f519595f86f?source=rss-f82fcec8502a------2)
-- [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
-- [Top free fonts for headings!](https://medium.com/creativcuckoo/top-free-fonts-for-headings-40afb244181?source=rss-f82fcec8502a------2)
-- [Buttons — Rounded Corners or Sharp?](https://medium.com/creativcuckoo/buttons-rounded-corners-or-sharp-29109966a63c?source=rss-f82fcec8502a------2) -->
-
+- [Turunan pada Machine Learning](https://maftuh.medium.com/turunan-pada-machine-learning-8f34150d16ad)
 
 ### :bulb: Languages & Frameworks I've learned
 <code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
