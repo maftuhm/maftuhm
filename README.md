@@ -40,9 +40,9 @@ I’m currently working as Software Engineer. And in my spare time, I learn on d
 <!-- <a href="https://codepen.io/maftuhm">
     <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/maftuh&color=000000&style=flat&logo=codepen"  />
 </a> -->
-<a href="https://twitter.com/maftuhmashuri/">
+<!-- <a href="https://twitter.com/maftuhmashuri/">
     <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/maftuhmashuri?style=social&label=@maftuhmashuri">
-</a>
+</a> -->
 <a href="https://linkedin.com/in/maftuhm">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/maftuhm&color=0A66C2&style=flat&logo=linkedin" />
 </a>
