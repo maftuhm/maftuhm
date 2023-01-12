@@ -1,6 +1,6 @@
 ### 👋 Hello I’m Maftuh !!!
 
-I'm an AI Engineer with a background in mathematics and proficiency in multiple programming languages. I have the ability ability to design, build, and deploy AI systems, utilizing the knowledge of mathematical concepts, and staying current with the latest advancements in AI technologies.
+I'm an AI Engineer with a background in mathematics and proficiency in multiple programming languages. I have the ability to design, build, and deploy AI systems, utilizing the knowledge of mathematical concepts, and staying current with the latest advancements in AI technologies.
 
 ### 📕 Latest Blog Post
 
