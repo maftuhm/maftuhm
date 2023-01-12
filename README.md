@@ -1,6 +1,6 @@
 ### 👋 Hello I’m Maftuh !!!
 
-I’m currently working as Software Engineer. And in my spare time, I learn on deep learning and data analysis.
+I'm an AI Engineer with a background in mathematics, experienced in data science and proficient in multiple programming languages. Experienced in handling large datasets, developing algorithms and integrating AI systems. Continuously updates knowledge with the latest advancements in AI and actively engaging in AI communities.
 
 ### 📕 Latest Blog Post
 
