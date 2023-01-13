@@ -61,5 +61,4 @@ I'm an AI Engineer with a background in mathematics and proficiency in multiple 
 
 <br><br>
 [![Profile Views](https://komarev.com/ghpvc/?username=maftuhm&color=yellowgreen&style=plastic&label=visitors)](https://github.com/maftuhm) &nbsp;
-<!-- [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaftuhm&count_bg=%23899E07&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/maftuhm) &nbsp; -->
 [![Follow](https://img.shields.io/github/followers/maftuhm?label=followers&style=plastic)](https://github.com/maftuhm) &nbsp;
